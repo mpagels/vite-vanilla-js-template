@@ -9,7 +9,7 @@
   "devDependencies": {
     "eslint": "^7.22.0",
     "htmlhint": "^0.14.2",
-    "vite": "^2.1.0"
+    "vite": "^2.4.1"
   },
   "license": "MIT"
 }
